@@ -1,0 +1,38 @@
+﻿# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Java class files
+*.class
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+
+# Log Files
+*.log
+
+# Android Studio
+.navigation/
+captures/
+.idea/
+*.iml
+
+# External native build
+.externalNativeBuild
+.cxx/
+
+# Sensitive
+.env
+*.key
+*.pem
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- File: app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">AI Agent</string>
+    <string name="accessibility_service_description">AI Agent 使用无障碍服务来理解屏幕内容并执行操作。它可以看到屏幕上的文字和按钮，模拟点击和滑动，但不会收集您的个人信息。您可以在设置中随时关闭此服务。</string>
+    <string name="settings_title">AI Agent 设置</string>
+    <string name="floating_ball_title">悬浮球</string>
+    <string name="api_config_title">API 配置</string>
+    <string name="model_config_title">模型配置</string>
+    <string name="voice_config_title">语音配置</string>
+    <string name="about_title">关于</string>
+</resources>
